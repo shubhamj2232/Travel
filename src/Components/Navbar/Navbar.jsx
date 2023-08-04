@@ -49,7 +49,7 @@ const Navbar = () => {
               </li>
 
               <button className='btn'>
-                <a href='#'>BOOK NOW</a>
+                <a href='#'>BOOK NOW!</a>
               </button>
             </ul>
             <div onClick={removeNavbar} className="closeNavbar">
